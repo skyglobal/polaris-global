@@ -1,8 +1,3 @@
-@mixin font($font) {
-  font-family: $font;
-  font-weight: normal;
-}
-
 @mixin gpu {
   @include transform(translate3d(0, 0, 0));
 }

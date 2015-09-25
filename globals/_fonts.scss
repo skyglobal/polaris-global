@@ -1,0 +1,12 @@
+/*
+*  #font-families
+*/
+$skytext-reg: SkyTextRegular, Helvetica, Arial, Sans-Serif;
+$skytext-med: SkyTextMedium, Helvetica, Arial, Sans-Serif;
+$skycons: skycons_2;
+
+
+@mixin font($font) {
+  font-family: $font;
+  font-weight: normal;
+}

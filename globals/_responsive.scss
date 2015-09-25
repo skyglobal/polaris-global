@@ -1,5 +1,9 @@
 @import 'constants';
 
+/*
+*  #responsive-mixins
+*/
+
 @mixin desktop {
   @media (min-width: #{$tablet-width + 1}) {
     @content;
