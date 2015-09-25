@@ -1,0 +1,14 @@
+{
+  "name": "polaris-global",
+  "version": "0.0.1",
+  "description": "Polaris global SASS variables and mixins",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyglobal/polaris-global.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/skyglobal/polaris-global/issues"
+  },
+  "homepage": "https://github.com/skyglobal/polaris-global#readme"
+}
