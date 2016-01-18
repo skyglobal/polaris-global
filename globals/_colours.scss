@@ -6,6 +6,7 @@ $black: rgba(0, 0, 0, 1);
 
 $access-blue: #255094;
 $sky-blue: #0072c9;
+$hover-blue: rgb(62, 138, 205);
 
 @function white($alpha) {
   @return rgba($white, ($alpha / 100));
