@@ -6,8 +6,8 @@ $dark-grey: rgba(34, 34, 34, 1);
 $black: rgba(0, 0, 0, 1);
 
 $access-blue: #255094;
-$sky-blue: #0072c9;
-$hover-blue: rgb(79, 158, 212);
+$sky-blue: #0073c5;
+$hover-blue: #73add8;
 
 @function white($alpha) {
   @return rgba($white, ($alpha / 100));
