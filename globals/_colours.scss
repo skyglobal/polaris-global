@@ -9,6 +9,8 @@ $access-blue: #255094;
 $sky-blue: #0073c5;
 $hover-blue: #73add8;
 
+$sky-1-tile-link: #0082dc;
+
 @function white($alpha) {
   @return rgba($white, ($alpha / 100));
 }
