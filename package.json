@@ -1,6 +1,6 @@
 {
   "name": "polaris-global",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Polaris global SASS variables and mixins",
   "repository": {
     "type": "git",
