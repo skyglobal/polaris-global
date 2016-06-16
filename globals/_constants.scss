@@ -1,9 +1,10 @@
 /*
 *  #design-widths
 */
-$mobile: 640;
-$tablet: 1024;
-$desktop: 1520;
+$mobile: 320;
+$tablet: 740;
+$desktop: 980;
+$desktop-xl: 1300;
 
 
 /*
@@ -12,6 +13,7 @@ $desktop: 1520;
 $mobile-width: $mobile + 0px;
 $tablet-width: $tablet + 0px;
 $desktop-width: $desktop + 0px;
+$desktop-xl-width: $desktop-xl + 0px;
 
 
 /*
