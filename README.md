@@ -1,5 +1,9 @@
-Polaris Global
-==============
+Polaris Global [Deprecated]
+===========================
+
+**Deprecated: Please use [sky-uk/toolkit](https://github.com/sky-uk/toolkit).**
+
+--
 
 ## Purpose
 
